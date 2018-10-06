@@ -33,7 +33,7 @@
 ## Contents
 
 ### TensorFlow overview and operations
-* [01.hello.tf.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/01.tf.overview/01.hello.tf.ipynb')
+* [01.hello.tf.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/01.tf.overview/01.hello.tf.ipynb)
 * [02.tf.eager.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/01.tf.overview/02.tf.eager.ipynb)
 * [03.tensorboard.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/01.tf.overview/03.tensorboard.ipynb)
 
