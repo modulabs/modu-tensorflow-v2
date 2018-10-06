@@ -1,0 +1,5 @@
+# for Mac users
+.DS_Store
+
+# ipynb_checkpoints
+0*/.ipynb_checkpoints
