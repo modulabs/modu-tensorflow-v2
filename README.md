@@ -3,7 +3,7 @@
 모두의연구소 풀잎스쿨 5기 **Flow me to the moon** 에서 활동하는 연구원들이
 정리한 내용입니다.
 아래의 참고자료를 기반으로 작성하고 있습니다.
-앞으로 나올 TF version 2.0에 맞게 작성하려고 노력중입니다.
+앞으로 나올 **TF version 2.0** 에 맞게 작성하려고 노력중입니다.
 
 * [**TensorFlow tutorials**](https://www.tensorflow.org/tutorials/)
   * Images
@@ -23,7 +23,7 @@
 
 ### Prerequisites
 * [`TensorFlow`](https://www.tensorflow.org) above 1.11.
-  * Will use [`TensorFlow 2.0`](https://www.tensorflow.org/community/roadmap) later.
+  * We will use [`TensorFlow 2.0`](https://www.tensorflow.org/community/roadmap) later.
 * Python 3.6
   * `numpy`, `matplotlib`, `PIL`
 * Jupyter notebook
@@ -33,7 +33,9 @@
 ## Contents
 
 ### TensorFlow overview and operations
-
+* [01.hello.tf.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/01.tf.overview/01.hello.tf.ipynb')
+* [02.tf.eager.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/01.tf.overview/02.tf.eager.ipynb)
+* [03.tensorboard.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/01.tf.overview/03.tensorboard.ipynb)
 
 
 ### Regression
