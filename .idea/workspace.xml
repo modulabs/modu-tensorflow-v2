@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4079eea4-5674-4c0c-af71-5c401eae5288" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02.tf.basic/tf.constants.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.tf.basic/tf.constants.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/02.tf.basic/tf.constants.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,22 +22,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="ipynb" value="7" />
+          <entry key="ipynb" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IPNB" value="7" />
+          <entry key="IPNB" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="24" />
+          <entry key="py" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="24" />
+          <entry key="Python" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -47,11 +46,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01.tf.overview/02.tf.eager.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02.tf.basic/tf.constants.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="15" />
             </state>
           </provider>
         </entry>
@@ -117,10 +125,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="y" value="23" />
-    <option name="width" value="1406" />
-    <option name="height" value="877" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="115" />
+    <option name="y" value="67" />
+    <option name="width" value="1165" />
+    <option name="height" value="579" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -143,6 +152,11 @@
               <item name="modu-tensorflow-v2" type="b2602c69:ProjectViewProjectNode" />
               <item name="modu-tensorflow-v2" type="462c0819:PsiDirectoryNode" />
               <item name="02.tf.basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="modu-tensorflow-v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="modu-tensorflow-v2" type="462c0819:PsiDirectoryNode" />
+              <item name="03.basic_model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="modu-tensorflow-v2" type="b2602c69:ProjectViewProjectNode" />
@@ -188,10 +202,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1406" height="877" extended-state="1" />
+    <frame x="115" y="67" width="1165" height="579" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1994135" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24220838" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -205,7 +219,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.31592357" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.50924027" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -250,17 +264,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02.tf.basic/tf.constants.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01.tf.overview/02.tf.eager.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.tf.basic/tf.constants.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="15" />
         </state>
       </provider>
     </entry>
