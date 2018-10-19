@@ -32,20 +32,41 @@
 
 ## Contents
 
-### TensorFlow overview and operations
+### TensorFlow overview
 * [01.hello.tf.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/01.tf.overview/01.hello.tf.ipynb)
 * [02.tf.eager.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/01.tf.overview/02.tf.eager.ipynb)
 * [03.tensorboard.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/01.tf.overview/03.tensorboard.ipynb)
 
 
+### TensorFlow basic operations
+* [01-1.tf.constant.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/02.tf.basic/01-1.tf.constant.ipynb)
+* [01-2.tf.constant.eager.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/02.tf.basic/01-2.tf.constant.eager.ipynb)
+* [02-1.tf.Variable.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/02.tf.basic/02-1.tf.Variable.ipynb)
+* [02-2.tf.Variable.eager.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/02.tf.basic/02-2.tf.Variable.eager.ipynb)
+* [03.tf.placeholder.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/02.tf.basic/03.tf.placeholder.ipynb)
+* [04-1.normal.lazy.loading.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/02.tf.basic/04-1.normal.lazy.loading.ipynb)
+* [04-2.normal.lazy.loading.eager.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/02.tf.basic/04-2.normal.lazy.loading.eager.ipynb)
+
+
 ### Regression
-
-
+* [01-1.linear.regression.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/03.regression/01-1.linear.regression.ipynb)
+* [01-2.linear.regression.eager.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/03.regression/01-2.linear.regression.eager.ipynb)
+* [02-1.logistic.regression.tf.placeholder.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/03.regression/02-1.logistic.regression.tf.placeholder.ipynb)
+* [02-2.logistic.regression.tf.data.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/03.regression/02-2.logistic.regression.tf.data.ipynb)
+* [02-3.logistic.regression.tf.data.eager.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/03.regression/02-3.logistic.regression.tf.data.eager.ipynb)
 
 
 ### Images
   
 #### Convolutional neural networks
+* [01-1.cnn.mnist.tf.data.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/04.cnn/01-1.cnn.mnist.tf.data.ipynb)
+* [01-2.cnn.mnist.tf.data.eager.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/04.cnn/01-2.cnn.mnist.tf.data.eager.ipynb)
+* [02-1.cnn.mnist.slim.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/04.cnn/02-1.cnn.mnist.slim.ipynb)
+* [02-2.cnn.mnist.slim.eager.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/04.cnn/02-2.cnn.mnist.slim.eager.ipynb)
+* [03-1.cnn.mnist.keras.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/04.cnn/03-1.cnn.mnist.keras.ipynb)
+* [03-2.cnn.mnist.keras.eager.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/04.cnn/03-2.cnn.mnist.keras.eager.ipynb)
+
+
 
 #### Style Transfer
 
