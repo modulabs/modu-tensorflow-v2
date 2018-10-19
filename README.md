@@ -39,13 +39,13 @@
 
 
 ### TensorFlow basic operations
-* [01-1.tf.constant.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/02.tf.basic/01-1.tf.constant.ipynb)
-* [01-2.tf.constant.eager.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/02.tf.basic/01-2.tf.constant.eager.ipynb)
-* [02-1.tf.Variable.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/02.tf.basic/02-1.tf.Variable.ipynb)
-* [02-2.tf.Variable.eager.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/02.tf.basic/02-2.tf.Variable.eager.ipynb)
-* [03.tf.placeholder.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/02.tf.basic/03.tf.placeholder.ipynb)
-* [04-1.normal.lazy.loading.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/02.tf.basic/04-1.normal.lazy.loading.ipynb)
-* [04-2.normal.lazy.loading.eager.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/02.tf.basic/04-2.normal.lazy.loading.eager.ipynb)
+* [01-1.tf.constant.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/02.tf.operations/01-1.tf.constant.ipynb)
+* [01-2.tf.constant.eager.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/02.tf.operations/01-2.tf.constant.eager.ipynb)
+* [02-1.tf.Variable.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/02.tf.operations/02-1.tf.Variable.ipynb)
+* [02-2.tf.Variable.eager.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/02.tf.operations/02-2.tf.Variable.eager.ipynb)
+* [03.tf.placeholder.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/02.tf.operations/03.tf.placeholder.ipynb)
+* [04-1.normal.lazy.loading.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/02.tf.operations/04-1.normal.lazy.loading.ipynb)
+* [04-2.normal.lazy.loading.eager.ipynb](https://nbviewer.jupyter.org/github/modulabs/modu-tensorflow-v2/blob/master/02.tf.operations/04-2.normal.lazy.loading.eager.ipynb)
 
 
 ### Regression
