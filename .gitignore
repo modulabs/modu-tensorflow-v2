@@ -7,3 +7,6 @@
 # output directory
 0*/graphs
 0*/train
+
+# related files on pycharm
+0*/.idea
