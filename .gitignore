@@ -10,3 +10,9 @@
 
 # related files on pycharm
 0*/.idea
+
+# datasets folder
+datasets
+
+# checkpoints folder
+checkpoints
